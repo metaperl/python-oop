@@ -1,7 +1,9 @@
 # python-oop
 Various extensions and add-ons to vanilla Python object-oriented programming
 
-
+* [Elk](https://github.com/frasertweedale/elk)
+* [Enthought's Traits Package](http://code.enthought.com/projects/traits/)
+* [Atom](https://github.com/nucleic/atom)
 
 
 # History
