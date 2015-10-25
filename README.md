@@ -6,6 +6,7 @@ Various extensions and add-ons to vanilla Python object-oriented programming
 * [Atom](https://github.com/nucleic/atom)
 * [Yuppy](https://github.com/kuujo/yuppy)
 * [strait](https://pypi.python.org/pypi/strait)
+* [BasicProperty](http://basicproperty.sourceforge.net/)
 
 
 
