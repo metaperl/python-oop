@@ -7,6 +7,7 @@ Various extensions and add-ons to vanilla Python object-oriented programming
 * [Yuppy](https://github.com/kuujo/yuppy)
 * [strait](https://pypi.python.org/pypi/strait)
 * [BasicProperty](http://basicproperty.sourceforge.net/)
+* [PEAK Rules](https://pypi.python.org/pypi/PEAK-Rules)
 
 
 
