@@ -8,6 +8,7 @@ Various extensions and add-ons to vanilla Python object-oriented programming
 * [strait](https://pypi.python.org/pypi/strait)
 * [BasicProperty](http://basicproperty.sourceforge.net/)
 * [PEAK Rules](https://pypi.python.org/pypi/PEAK-Rules)
+* [metaparams](https://github.com/mementum/metaparams)
 
 
 
