@@ -4,6 +4,9 @@ Various extensions and add-ons to vanilla Python object-oriented programming
 * [Elk](https://github.com/frasertweedale/elk)
 * [Enthought's Traits Package](http://code.enthought.com/projects/traits/)
 * [Atom](https://github.com/nucleic/atom)
+* [Yuppy](https://github.com/kuujo/yuppy)
+* [strait](https://pypi.python.org/pypi/strait)
+
 
 
 # History
