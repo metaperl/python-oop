@@ -9,6 +9,11 @@ Various extensions and add-ons to vanilla Python object-oriented programming
 * [BasicProperty](http://basicproperty.sourceforge.net/)
 * [PEAK Rules](https://pypi.python.org/pypi/PEAK-Rules)
 * [metaparams](https://github.com/mementum/metaparams)
+* 
+
+# Core but nonetheless an add-on
+
+[collections.namedtuple](https://docs.python.org/2/library/collections.html#collections.namedtuple) is often forgotten about. However, it is preferable to the use of dictionaries in many cases.
 
 
 
