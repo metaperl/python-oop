@@ -13,9 +13,11 @@ Various extensions and add-ons to vanilla Python object-oriented programming
 
 # Core but nonetheless an add-on
 
-[collections.namedtuple](https://docs.python.org/2/library/collections.html#collections.namedtuple) is often forgotten about. However, it is preferable to the use of dictionaries in many cases.
+[collections.namedtuple](https://docs.python.org/2/library/collections.html#collections.namedtuple) is often forgotten about. However, it is preferable to the use of dictionaries in many cases. [Discusssion](https://www.reddit.com/r/Python/comments/3qw7m4/improving_your_code_readability_with_namedtuples/)
 
+# Data Structure-ish
 
+* [Addict](https://github.com/mewwts/addict)
 
 # History
 
