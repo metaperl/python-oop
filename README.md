@@ -11,6 +11,19 @@ Various extensions and add-ons to vanilla Python object-oriented programming
 * [PEAK Rules](https://pypi.python.org/pypi/PEAK-Rules)
 * [metaparams](https://github.com/mementum/metaparams)
 
+# Multimethods
+
+* [multimethods](https://pypi.python.org/pypi/multimethods/) Robert Kende
+* [multimethods](https://github.com/weissjeffm/multimethods) Jeff Weiss
+* [PEAK Rules](https://pypi.python.org/pypi/PEAK-Rules) Philip Eby
+* [multimethodic](https://github.com/danwerner/multimethodic) by Dan Werner
+* [generic](https://pythonhosted.org/generic/) by Andrey Popp
+
+## Generic Functions / Pattern Matching
+
+* [PyPatt](http://www.grantjenks.com/docs/pypatt-python-pattern-matching/#) by Grant Jenks
+* [PyFPM](https://github.com/martinblech/pyfpm)
+* [PyFNC](https://github.com/jldupont/pyfnc)
 
 # Core but nonetheless an add-on
 
