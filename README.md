@@ -1,6 +1,12 @@
-# python-oop
-Various extensions and add-ons to vanilla Python object-oriented programming
+# python-oop: Python object-oriented programming
 
+## Core but nonetheless an add-on
+
+[collections.namedtuple](https://docs.python.org/2/library/collections.html#collections.namedtuple) is often forgotten about. However, it is preferable to the use of dictionaries in many cases. [Discusssion](https://www.reddit.com/r/Python/comments/3qw7m4/improving_your_code_readability_with_namedtuples/)
+
+# Add-ons
+
+* [attrs](https://attrs.readthedocs.io/en/stable/) - [Tutorial article](https://glyph.twistedmatrix.com/2016/08/attrs.html)
 * [traitlets](https://github.com/ipython/traitlets)
 * [Elk](https://github.com/frasertweedale/elk)
 * [Enthought's Traits Package](http://code.enthought.com/projects/traits/)
@@ -25,9 +31,6 @@ Various extensions and add-ons to vanilla Python object-oriented programming
 * [PyFPM](https://github.com/martinblech/pyfpm)
 * [PyFNC](https://github.com/jldupont/pyfnc)
 
-# Core but nonetheless an add-on
-
-[collections.namedtuple](https://docs.python.org/2/library/collections.html#collections.namedtuple) is often forgotten about. However, it is preferable to the use of dictionaries in many cases. [Discusssion](https://www.reddit.com/r/Python/comments/3qw7m4/improving_your_code_readability_with_namedtuples/)
 
 # Data Structure-ish
 
