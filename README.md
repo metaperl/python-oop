@@ -18,6 +18,7 @@
 * [PEAK Rules](https://pypi.python.org/pypi/PEAK-Rules)
 * [metaparams](https://github.com/mementum/metaparams)
 * [JSObject](https://pypi.python.org/pypi/jsobject/) - Javascript style objects in Python
+* [Zope interfaces](https://pypi.python.org/pypi/zope.interface) 
 
 # Multimethods
 
@@ -38,9 +39,19 @@
 
 * [Addict](https://github.com/mewwts/addict)
 
+# Web Development
+
+100% Python-based web development from front to back (database processing to html/js/css rendering) is a possibility in Python thanks to thse libraries:
+* [Nagare](http://naga.re) 
+* [Remi](https://github.com/dddomodossola/remi)
+* [PyJS](http://pyjs.org/)
+* [Reahl](http://www.reahl.org/)
+* [Engel](https://github.com/Dalloriam/engel)
+
 # Articles
 
 * [Classes and Objects III: Metaclasses, Abstract Base Classes and Class Decorators](http://intermediatepythonista.com/metaclasses-abc-class-decorators)
+
 
 # History
 
