@@ -16,6 +16,7 @@
 * [BasicProperty](http://basicproperty.sourceforge.net/)
 * [PEAK Rules](https://pypi.python.org/pypi/PEAK-Rules)
 * [metaparams](https://github.com/mementum/metaparams)
+* [JSObject](https://pypi.python.org/pypi/jsobject/) - Javascript style objects in Python
 
 # Multimethods
 
