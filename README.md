@@ -30,6 +30,7 @@
 
 ## Generic Functions / Pattern Matching
 
+* [Reg](http://reg.readthedocs.io/)
 * [PyPatt](http://www.grantjenks.com/docs/pypatt-python-pattern-matching/#) by Grant Jenks
 * [PyFPM](https://github.com/martinblech/pyfpm)
 * [PyFNC](https://github.com/jldupont/pyfnc)
