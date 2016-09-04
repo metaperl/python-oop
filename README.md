@@ -39,6 +39,7 @@
 # Data Structure-ish
 
 * [Addict](https://github.com/mewwts/addict)
+* [ObjectPath](http://objectpath.org/)
 
 # Web Development
 
