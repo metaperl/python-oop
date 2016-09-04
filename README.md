@@ -44,6 +44,7 @@
 
 100% Python-based web development from front to back (database processing to html/js/css rendering) is a possibility in Python thanks to thse libraries. The database side is typically done with SQLAlchemy. To a greater or lesser extent, any framework can do object-oriented html/js/css thanks to Python push-style templating solutions.
 * [Nagare](http://naga.re) 
+* [flybywire](https://github.com/thomasantony/flybywire)
 * [Remi](https://github.com/dddomodossola/remi)
 * [PyJS](http://pyjs.org/)
 * [Reahl](http://www.reahl.org/)
