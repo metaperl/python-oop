@@ -35,15 +35,17 @@
 * [PyFPM](https://github.com/martinblech/pyfpm)
 * [PyFNC](https://github.com/jldupont/pyfnc)
 
+# Design Patterns
 
-# Data Structure-ish
+* [Design Pattern Templates for Python.](https://github.com/tylerlaberge/PyPattyrn)
+* [A collection of design patterns/idioms in Python](https://github.com/faif/python-patterns)
+* [Factory design pattern snippet](https://gist.github.com/1099559)
 
-* [Addict](https://github.com/mewwts/addict)
-* [ObjectPath](http://objectpath.org/)
 
 # Web Development
 
-100% Python-based web development from front to back (database processing to html/js/css rendering) is a possibility in Python thanks to thse libraries. The database side is typically done with SQLAlchemy. To a greater or lesser extent, any framework can do object-oriented html/js/css thanks to Python push-style templating solutions.
+100% Python-based object-oriented web development from front to back (database processing to html/js/css rendering) is a possibility in Python thanks to thse libraries. The database side is typically done with SQLAlchemy. The "HTML Alchemy" is done with the libraries below.
+
 * [Nagare](http://naga.re) 
 * [flybywire](https://github.com/thomasantony/flybywire)
 * [Remi](https://github.com/dddomodossola/remi)
@@ -51,6 +53,12 @@
 * [Reahl](http://www.reahl.org/)
 * [Engel](https://github.com/Dalloriam/engel)
 * [Muntjac](https://github.com/rwl/muntjac) - a (defunct) port of [Vaadin](https://vaadin.com) from Java to Python.
+
+# Data Structure-ish
+
+* [Addict](https://github.com/mewwts/addict)
+* [ObjectPath](http://objectpath.org/)
+
 
 # Articles
 
