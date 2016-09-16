@@ -60,10 +60,16 @@
 * [ObjectPath](http://objectpath.org/)
 
 
-# Articles
+# Literature
+
+## Books
+
+* [Python in Practice: Create Better Programs Using Concurrency, Libraries and Patterns](https://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636)
+
+## Articles
 
 * [Classes and Objects III: Metaclasses, Abstract Base Classes and Class Decorators](http://intermediatepythonista.com/metaclasses-abc-class-decorators)
-
+ 
 
 # History
 
