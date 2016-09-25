@@ -35,7 +35,11 @@
 * [PyFPM](https://github.com/martinblech/pyfpm)
 * [PyFNC](https://github.com/jldupont/pyfnc)
 
-# Design Patterns
+# Software Engineering
+
+* [Dependency Injection](http://python-dependency-injector.ets-labs.org/en/stable/)
+
+## Design Patterns
 
 * [Design Pattern Templates for Python.](https://github.com/tylerlaberge/PyPattyrn)
 * [A collection of design patterns/idioms in Python](https://github.com/faif/python-patterns)
