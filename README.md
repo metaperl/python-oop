@@ -28,9 +28,10 @@
 * [multimethodic](https://github.com/danwerner/multimethodic) by Dan Werner
 * [generic](https://pythonhosted.org/generic/) by Andrey Popp
 
-## Generic Functions / Pattern Matching
+## Generic Functions / ML-Style Pattern Matching / Lisp-Style CLOS 
 
 * [Reg](http://reg.readthedocs.io/)
+* [Pythfun](https://github.com/sminez/Pythfun)
 * [PyPatt](http://www.grantjenks.com/docs/pypatt-python-pattern-matching/#) by Grant Jenks
 * [PyFPM](https://github.com/martinblech/pyfpm)
 * [PyFNC](https://github.com/jldupont/pyfnc)
