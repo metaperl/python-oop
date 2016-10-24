@@ -35,6 +35,7 @@
 * [PyPatt](http://www.grantjenks.com/docs/pypatt-python-pattern-matching/#) by Grant Jenks
 * [PyFPM](https://github.com/martinblech/pyfpm)
 * [PyFNC](https://github.com/jldupont/pyfnc)
+* [Paco](https://github.com/h2non/paco) - coroutine-driven, asynchronous-based generic programming in Python +3.4
 
 # Software Engineering
 
