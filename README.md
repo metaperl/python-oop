@@ -20,7 +20,11 @@
 * [JSObject](https://pypi.python.org/pypi/jsobject/) - Javascript style objects in Python
 * [Zope interfaces](https://pypi.python.org/pypi/zope.interface) 
 
-# Multimethods
+# Method Munging
+
+* [pyhooks](https://github.com/Shir0kamii/pyhooks) - pre and post hooks for your methods.
+
+## Multimethods
 
 * [multimethods](https://pypi.python.org/pypi/multimethods/) Robert Kende
 * [multimethods](https://github.com/weissjeffm/multimethods) Jeff Weiss
@@ -28,7 +32,7 @@
 * [multimethodic](https://github.com/danwerner/multimethodic) by Dan Werner
 * [generic](https://pythonhosted.org/generic/) by Andrey Popp
 
-## Generic Functions / ML-Style Pattern Matching / Lisp-Style CLOS 
+### Generic Functions / ML-Style Pattern Matching / Lisp-Style CLOS 
 
 * [Reg](http://reg.readthedocs.io/)
 * [Pythfun](https://github.com/sminez/Pythfun)
