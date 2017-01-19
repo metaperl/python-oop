@@ -23,6 +23,7 @@
 # Method Munging
 
 * [pyhooks](https://github.com/Shir0kamii/pyhooks) - pre and post hooks for your methods.
+* [Connectible](https://github.com/timothycrosley/connectable#readme) - the Observer pattern 
 
 ## Multimethods
 
@@ -52,7 +53,7 @@
 * [Factory design pattern snippet](https://gist.github.com/1099559)
 
 
-# Web Development
+# Web Development / HTML Generation
 
 100% Python-based object-oriented web development from front to back (database processing to html/js/css rendering) is a possibility in Python thanks to thse libraries. The database side is typically done with SQLAlchemy. The "HTML Alchemy" is done with the libraries below.
 
@@ -63,6 +64,10 @@
 * [Reahl](http://www.reahl.org/)
 * [Engel](https://github.com/Dalloriam/engel)
 * [Muntjac](https://github.com/rwl/muntjac) - a (defunct) port of [Vaadin](https://vaadin.com) from Java to Python.
+* [Enaml](http://nucleic.github.io/enaml/docs/get_started/introduction.html)
+* [TheDom](https://github.com/timothycrosley/thedom) by Timothy Crosley
+* [Dominate](https://github.com/Knio/dominate)
+* [Funky Bomb](https://pythonhosted.org/funkybomb/)
 
 # Data Structure-ish
 
