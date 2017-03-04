@@ -84,6 +84,7 @@
 ## Articles
 
 * [Classes and Objects III: Metaclasses, Abstract Base Classes and Class Decorators](http://intermediatepythonista.com/metaclasses-abc-class-decorators)
+* [Python Decorator for Simplifying Delegate Pattern](https://programmingideaswithjake.wordpress.com/2015/05/23/python-decorator-for-simplifying-delegate-pattern/) by Jacob Zimmerman
  
 
 # History
