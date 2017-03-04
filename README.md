@@ -24,6 +24,7 @@
 
 * [pyhooks](https://github.com/Shir0kamii/pyhooks) - pre and post hooks for your methods.
 * [Connectible](https://github.com/timothycrosley/connectable#readme) - the Observer pattern 
+* [forwardable](https://pypi.python.org/pypi/forwardable/) - delegation 
 
 ## Multimethods
 
