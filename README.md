@@ -46,6 +46,7 @@
 # Software Engineering
 
 * [Dependency Injection](http://python-dependency-injector.ets-labs.org/en/stable/)
+* [Siringa](https://github.com/h2non/siringa)
 
 ## Design Patterns
 
