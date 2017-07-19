@@ -43,10 +43,15 @@
 * [PyFNC](https://github.com/jldupont/pyfnc)
 * [Paco](https://github.com/h2non/paco) - coroutine-driven, asynchronous-based generic programming in Python +3.4
 
-# Software Engineering
 
-* [Dependency Injection](http://python-dependency-injector.ets-labs.org/en/stable/)
+# Dependency Injection
+
+(as discussed in [the python wiki](https://wiki.python.org/moin/DependencyInjectionPattern), we see that [there are quite a few on PyPi](https://pypi.python.org/pypi?%3Aaction=search&term=dependency+injection). The ones listed below appear to have active userbases and code maintainers.
+
+* [Dependency Injector](http://python-dependency-injector.ets-labs.org/en/stable/)
 * [Siringa](https://github.com/h2non/siringa)
+* [Give Me](https://github.com/steinitzu/giveme)
+* [ainject](https://github.com/pohmelie/ainject)
 
 ## Design Patterns
 
