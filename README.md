@@ -101,6 +101,9 @@ Providing OO access to Python dictionaries can be important so you can override 
 * [Classes and Objects III: Metaclasses, Abstract Base Classes and Class Decorators](http://intermediatepythonista.com/metaclasses-abc-class-decorators)
 * [Python Decorator for Simplifying Delegate Pattern](https://programmingideaswithjake.wordpress.com/2015/05/23/python-decorator-for-simplifying-delegate-pattern/) by Jacob Zimmerman
  
+## Discussion
+
+* [Best Practices: OOP in Python](https://www.reddit.com/r/Python/comments/6xs6od/best_practices_oop_in_python/)
 
 # History
 
