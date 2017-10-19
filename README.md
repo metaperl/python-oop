@@ -104,6 +104,7 @@ Providing OO access to Python dictionaries can be important so you can override 
 ## Discussion
 
 * [Best Practices: OOP in Python](https://www.reddit.com/r/Python/comments/6xs6od/best_practices_oop_in_python/)
+* [Would you consider method chaining to be Pythonic?](https://redd.it/7798ub)
 
 # History
 
