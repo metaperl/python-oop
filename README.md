@@ -84,12 +84,14 @@
 
 ## Dictionary Wrappers
 
-Providing OO access to Python dictionaries can be important so you can override access to attributes. It is becoming a hotly contested topic in the Python community
+Providing OO access to Python dictionaries can be important so you can override access to attributes. It is becoming a hotly contested topic in the Python community.
 
+You may read [a comprehensive comparison of them](https://github.com/pohmelie/skin#benchmark).
+
+* [Skin](https://www.reddit.com/r/Python/comments/7ev2lc/suit_yet_another_attributelike_access_to/)
 * [DotMap](https://pypi.python.org/pypi/dotmap) by Chris Redford - [heated discussion](https://www.reddit.com/r/Python/comments/5xn562/dotmap_rocks/)
 * [Box](https://github.com/cdgriffith/Box) by Chris Griffith - [heated discussion](https://www.reddit.com/r/Python/comments/611zmj/introducing_box_python_dictionaries_with/)
 * [dot_access](https://www.reddit.com/r/Python/comments/71u3fd/dot_access_makes_going_through_nested_python/)
-* [Suit](https://www.reddit.com/r/Python/comments/7ev2lc/suit_yet_another_attributelike_access_to/)
 
 # Literature
 
