@@ -48,6 +48,7 @@
 
 (as discussed in [the python wiki](https://wiki.python.org/moin/DependencyInjectionPattern), we see that [there are quite a few on PyPi](https://pypi.python.org/pypi?%3Aaction=search&term=dependency+injection). The ones listed below appear to have active userbases and code maintainers.
 
+* [PicoBox](http://picobox.readthedocs.com)
 * [Dependency Injector](http://python-dependency-injector.ets-labs.org/en/stable/)
 * [Siringa](https://github.com/h2non/siringa)
 * [Give Me](https://github.com/steinitzu/giveme)
