@@ -49,6 +49,7 @@
 (as discussed in [the python wiki](https://wiki.python.org/moin/DependencyInjectionPattern), we see that [there are quite a few on PyPi](https://pypi.python.org/pypi?%3Aaction=search&term=dependency+injection). The ones listed below appear to have active userbases and code maintainers.
 
 
+* Dependencies [github](https://github.com/proofit404/dependencies)
 * Autowired [github](https://github.com/allrod5/injectable), [discussion](https://www.reddit.com/r/Python/comments/7vwi61/injectable_autowired_decorator_for_di_and_lazy/)
 * Serum [github](https://github.com/suned/serum)
 * Picobox: [Discussion](https://www.reddit.com/r/Python/comments/7l0yfr/picobox_opinionated_dependency_injection/?utm_content=comments&utm_medium=hot&utm_source=reddit&utm_name=Python), [Docs](http://picobox.readthedocs.com)
