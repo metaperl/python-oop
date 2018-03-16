@@ -17,7 +17,6 @@
 * [BasicProperty](http://basicproperty.sourceforge.net/)
 * [PEAK Rules](https://pypi.python.org/pypi/PEAK-Rules)
 * [metaparams](https://github.com/mementum/metaparams)
-* [JSObject](https://pypi.python.org/pypi/jsobject/) - Javascript style objects in Python
 * [Zope interfaces](https://pypi.python.org/pypi/zope.interface) 
 
 # Method Munging
@@ -87,6 +86,8 @@
 
 * [Addict](https://github.com/mewwts/addict)
 * [ObjectPath](http://objectpath.org/)
+* [JSObject](https://pypi.python.org/pypi/jsobject/) - Javascript style objects in Python
+
 
 ## Dictionary Wrappers
 
