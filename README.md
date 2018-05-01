@@ -76,6 +76,7 @@
 * [PyJS](http://pyjs.org/)
 * [PyBee](https://pybee.org/)
 * [Flexx](https://flexx.readthedocs.io/en/latest/)
+* [Anpylar](https://www.anpylar.com/)
 * [Reahl](http://www.reahl.org/)
 * [Engel](https://github.com/Dalloriam/engel)
 * [Muntjac](https://github.com/rwl/muntjac) - a (defunct) port of [Vaadin](https://vaadin.com) from Java to Python.
