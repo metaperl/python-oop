@@ -90,6 +90,7 @@
 * [Addict](https://github.com/mewwts/addict)
 * [ObjectPath](http://objectpath.org/)
 * [JSObject](https://pypi.python.org/pypi/jsobject/) - Javascript style objects in Python
+* [glom](https://github.com/mahmoud/glom)
 
 
 ## Dictionary Wrappers
