@@ -10,7 +10,7 @@
 * [attrs](https://attrs.readthedocs.io/en/stable/) - [Tutorial article](https://glyph.twistedmatrix.com/2016/08/attrs.html)
 * [traitlets](https://github.com/ipython/traitlets)
 * [Elk](https://github.com/frasertweedale/elk)
-* [Enthought's Traits Package](http://code.enthought.com/projects/traits/)
+* [Enthought's Traits Package](https://docs.enthought.com/traits/)
 * [Atom](https://github.com/nucleic/atom)
 * [Yuppy](https://github.com/kuujo/yuppy)
 * [strait](https://pypi.python.org/pypi/strait)
