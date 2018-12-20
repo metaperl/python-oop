@@ -56,22 +56,7 @@ https://github.com/metaperl/python-oop/wiki/Dependency-Injection
 
 # Web Development / HTML Generation
 
-100% Python-based object-oriented web development from front to back (database processing to html/js/css rendering) is a possibility in Python thanks to thse libraries. The database side is typically done with SQLAlchemy. The "HTML Alchemy" is done with the libraries below.
-
-* [Nagare](http://naga.re) 
-* [flybywire](https://github.com/thomasantony/flybywire)
-* [Remi](https://github.com/dddomodossola/remi)
-* [PyJS](http://pyjs.org/)
-* [PyBee](https://pybee.org/)
-* [Flexx](https://flexx.readthedocs.io/en/latest/)
-* [Anpylar](https://www.anpylar.com/)
-* [Reahl](http://www.reahl.org/)
-* [Engel](https://github.com/Dalloriam/engel)
-* [Muntjac](https://github.com/rwl/muntjac) - a (defunct) port of [Vaadin](https://vaadin.com) from Java to Python.
-* [Enaml](http://nucleic.github.io/enaml/docs/get_started/introduction.html)
-* [TheDom](https://github.com/timothycrosley/thedom) by Timothy Crosley
-* [Dominate](https://github.com/Knio/dominate)
-* [Funky Bomb](https://pythonhosted.org/funkybomb/)
+https://github.com/metaperl/python-oop/wiki/Web-Application-Development
 
 # Data Structure-ish
 
