@@ -49,50 +49,21 @@ https://github.com/metaperl/python-oop/wiki/Dependency-Injection
 
 ## Design Patterns
 
-* [Design Pattern Templates for Python.](https://github.com/tylerlaberge/PyPattyrn)
-* [A collection of design patterns/idioms in Python](https://github.com/faif/python-patterns)
-* [Factory design pattern snippet](https://gist.github.com/1099559)
 
 
 # Web Development / HTML Generation
 
 https://github.com/metaperl/python-oop/wiki/Web-Application-Development
 
-# Data Structure-ish
 
-* [Addict](https://github.com/mewwts/addict)
-* [ObjectPath](http://objectpath.org/)
-* [JSObject](https://pypi.python.org/pypi/jsobject/) - Javascript style objects in Python
-* [glom](https://github.com/mahmoud/glom)
+# Data Querying and Dictionary Wrappers
 
+https://github.com/metaperl/python-oop/wiki/Data-Querying-and-Dictionary-Wrappers
 
-## Dictionary Wrappers
-
-Providing OO access to Python dictionaries can be important so you can override access to attributes. It is becoming a hotly contested topic in the Python community.
-
-You may read [a comprehensive comparison of them](https://github.com/pohmelie/skin#benchmark).
-
-* [Skin](https://www.reddit.com/r/Python/comments/7ev2lc/suit_yet_another_attributelike_access_to/)
-* [DotMap](https://pypi.python.org/pypi/dotmap) by Chris Redford - [heated discussion](https://www.reddit.com/r/Python/comments/5xn562/dotmap_rocks/)
-* [Box](https://github.com/cdgriffith/Box) by Chris Griffith - [heated discussion](https://www.reddit.com/r/Python/comments/611zmj/introducing_box_python_dictionaries_with/)
-* [dot_access](https://www.reddit.com/r/Python/comments/71u3fd/dot_access_makes_going_through_nested_python/)
 
 # Literature
 
-## Books
-
-* [Python in Practice: Create Better Programs Using Concurrency, Libraries and Patterns](https://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636)
-
-## Articles
-
-* [Objects and classes in Python](http://jfine-python-classes.readthedocs.io/en/latest/index.html) by J Fine.
-* [Classes and Objects III: Metaclasses, Abstract Base Classes and Class Decorators](http://intermediatepythonista.com/metaclasses-abc-class-decorators)
-* [Python Decorator for Simplifying Delegate Pattern](https://programmingideaswithjake.wordpress.com/2015/05/23/python-decorator-for-simplifying-delegate-pattern/) by Jacob Zimmerman
- 
-## Discussion
-
-* [Best Practices: OOP in Python](https://www.reddit.com/r/Python/comments/6xs6od/best_practices_oop_in_python/)
-* [Would you consider method chaining to be Pythonic?](https://redd.it/7798ub)
+https://github.com/metaperl/python-oop/wiki - search for literature in the Pages textbox
 
 # History
 
