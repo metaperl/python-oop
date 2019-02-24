@@ -18,6 +18,7 @@
 * [PEAK Rules](https://pypi.python.org/pypi/PEAK-Rules)
 * [metaparams](https://github.com/mementum/metaparams)
 * [Zope interfaces](https://pypi.python.org/pypi/zope.interface) 
+* [catlizor](https://github.com/BTaskaya/catlizor)
 
 # Method Munging
 
