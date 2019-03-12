@@ -6,6 +6,7 @@
 
 # Add-ons
 
+* [TypeSystem](https://www.encode.io/typesystem/)
 * [Schematics](http://schematics.readthedocs.io)
 * [attrs](https://attrs.readthedocs.io/en/stable/) - [Tutorial article](https://glyph.twistedmatrix.com/2016/08/attrs.html)
 * [traitlets](https://github.com/ipython/traitlets)
