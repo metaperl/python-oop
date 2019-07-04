@@ -27,13 +27,6 @@
 * [Connectible](https://github.com/timothycrosley/connectable#readme) - the Observer pattern 
 * [forwardable](https://pypi.python.org/pypi/forwardable/) - delegation 
 
-## Multimethods
-
-* [multimethods](https://pypi.python.org/pypi/multimethods/) Robert Kende
-* [multimethods](https://github.com/weissjeffm/multimethods) Jeff Weiss
-* [PEAK Rules](https://pypi.python.org/pypi/PEAK-Rules) Philip Eby
-* [multimethodic](https://github.com/danwerner/multimethodic) by Dan Werner
-* [generic](https://pythonhosted.org/generic/) by Andrey Popp
 
 ### Generic Functions / ML-Style Pattern Matching / Lisp-Style CLOS 
 
