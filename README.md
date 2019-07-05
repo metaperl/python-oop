@@ -28,14 +28,7 @@
 * [forwardable](https://pypi.python.org/pypi/forwardable/) - delegation 
 
 
-### Generic Functions / ML-Style Pattern Matching / Lisp-Style CLOS 
 
-* [Reg](http://reg.readthedocs.io/)
-* [Pythfun](https://github.com/sminez/Pythfun)
-* [PyPatt](http://www.grantjenks.com/docs/pypatt-python-pattern-matching/#) by Grant Jenks
-* [PyFPM](https://github.com/martinblech/pyfpm)
-* [PyFNC](https://github.com/jldupont/pyfnc)
-* [Paco](https://github.com/h2non/paco) - coroutine-driven, asynchronous-based generic programming in Python +3.4
 
 
 # Dependency Injection
