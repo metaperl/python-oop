@@ -10,6 +10,7 @@
 * [Schematics](http://schematics.readthedocs.io)
 * [attrs](https://attrs.readthedocs.io/en/stable/) - [Tutorial article](https://glyph.twistedmatrix.com/2016/08/attrs.html)
 * [traitlets](https://github.com/ipython/traitlets)
+* traitlite - yes this differs from traitlets! [discussion](https://www.reddit.com/r/Python/comments/bu2la4/traitlite_dependencyfree_traits_without/) and [github](https://github.com/lejar/traitlite).
 * [Elk](https://github.com/frasertweedale/elk)
 * [Enthought's Traits Package](https://docs.enthought.com/traits/)
 * [Atom](https://github.com/nucleic/atom)
