@@ -38,7 +38,7 @@ https://github.com/metaperl/python-oop/wiki
 
 # Dependency Injection
 
-https://github.com/metaperl/python-oop/wiki/Dependency-Injection
+https://github.com/metaperl/python-oop/wiki/Dependency-Injection--&--Inversion-of-Control
 
 ## Design Patterns
 
